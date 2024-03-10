@@ -1,6 +1,6 @@
 let submit = document.getElementById('form')
 
-form.addEventListener('submit',()=>{
+submit.addEventListener('submit',()=>{
     validationForm()
 })
 
